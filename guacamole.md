@@ -1,6 +1,11 @@
 # Guacamoole
 
 ## Ingridients
-# salz
-#zitrone
-# Apfel
+* avocado
+* lime 
+* salt
+* 
+# Instructions
+* chop avocado
+* chop lime
+* add salt
